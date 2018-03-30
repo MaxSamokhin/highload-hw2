@@ -1,9 +1,9 @@
 {
-  "apiPrefix": "http://localhost:8001",
-  "serverPort": 8001,
+  "apiPrefix": "http://159.89.1.70:80",
+  "serverPort": 80,
   "db": {
     "name": "notes",
-    "host": "localhost",
+    "host": "127.0.0.1",
     "port": 27017
   }
 }
